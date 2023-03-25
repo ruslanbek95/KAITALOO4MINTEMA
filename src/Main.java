@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println( "commit and Push");
         String a = "  I Like Java!!!";
         System.out.println(a.charAt(a.length()-1));
         System.out.println(a.endsWith("!!!"));
